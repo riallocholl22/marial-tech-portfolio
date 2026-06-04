@@ -1,14 +1,22 @@
-Marial Chol Portfolio
+MARIAL CHOL AGUDI
 
-This repository contains my professional portfolio showcasing my skills, projects, achievements, and experience in Computer Science, Software Engineering, Artificial Intelligence, Cybersecurity, and Full-Stack Development.
+Software Engineer | AI Enthusiast | Cybersecurity Engineer | Full-Stack Developer
 
-The portfolio highlights my technical expertise, academic work, personal projects, and innovative solutions designed to solve real-world challenges through modern technology.
+Welcome to my professional portfolio repository.
 
-Key Areas
+This repository contains my personal portfolio website showcasing my skills, projects, technical expertise, and professional journey in Computer Science, Artificial Intelligence, Cybersecurity, and Software Engineering.
+
+ABOUT ME
+
+I am a Computer Science student passionate about building secure, scalable, and intelligent digital solutions. My interests span Artificial Intelligence, Cybersecurity, Full-Stack Development, Cloud Computing, and Software Engineering.
+
+I enjoy solving real-world problems through technology while continuously learning emerging technologies and industry best practices.
+
+SPECIALIZATIONS
 
 Artificial Intelligence
 
-Cybersecurity
+Cybersecurity Engineering
 
 Software Engineering
 
@@ -20,23 +28,27 @@ Database Systems
 
 Mobile Application Development
 
-Featured Projects
+Network Security
 
-AI Recruitment Platform
-
-AI Cybersecurity Platform
-
-University Authentication System
-
-Technology Stack
+TECHNOLOGIES
 
 Python
 
 JavaScript
 
+Java
+
+C Programming
+
+HTML5
+
+CSS3
+
 React.js
 
 Node.js
+
+Express.js
 
 FastAPI
 
@@ -46,24 +58,48 @@ MySQL
 
 PostgreSQL
 
+SQLite
+
 Docker
 
-Git & GitHub
+Git
 
-Purpose
+GitHub
 
-The purpose of this portfolio is to demonstrate my technical capabilities, professional growth, and commitment to developing secure, scalable, and intelligent software solutions.
+Linux
 
-Author
+FEATURED PROJECTS
 
-Marial Chol Agudi
+AI Recruitment Platform
 
-Computer Science Student
+Enterprise-grade recruitment platform powered by Artificial Intelligence for candidate screening, talent acquisition, interview management, and hiring analytics.
 
-Aspiring Software Engineer & AI Specialist
+AI Cybersecurity Platform
 
-GitHub: @riallochol22
+Advanced identity security platform featuring threat detection, risk analysis, authentication management, and cybersecurity monitoring capabilities.
 
-Email: [riallochol@gmail.com](mailto:riallochol@gmail.com)
+University Authentication System
 
-"Building intelligent solutions, securing digital systems, and shaping the future through technology."
+QR-code-based authentication platform designed for academic institutions with attendance tracking, GPS verification, and administrative management.
+
+CAREER OBJECTIVE
+
+To become a world-class Software Engineer and AI Specialist focused on developing innovative, secure, and intelligent systems that transform businesses and communities globally.
+
+PORTFOLIO WEBSITE
+
+Live Portfolio:
+https://riallochol22.github.io/marial-tech-portfolio/
+
+CONTACT
+
+GitHub
+https://github.com/riallochol22
+
+Email
+[riallochol@gmail.com](mailto:riallochol@gmail.com)
+
+Location
+Nairobi, Kenya
+
+“Building Intelligent Solutions. Securing Digital Systems. Shaping The Future Through Technology.”
